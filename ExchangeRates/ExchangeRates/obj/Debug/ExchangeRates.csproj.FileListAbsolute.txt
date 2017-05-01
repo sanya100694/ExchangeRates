@@ -1,0 +1,9 @@
+C:\Users\Александр\Desktop\ExchangeRates\ExchangeRates\bin\Debug\ExchangeRates.exe.config
+C:\Users\Александр\Desktop\ExchangeRates\ExchangeRates\bin\Debug\ExchangeRates.exe
+C:\Users\Александр\Desktop\ExchangeRates\ExchangeRates\bin\Debug\ExchangeRates.pdb
+C:\Users\Александр\Desktop\ExchangeRates\ExchangeRates\obj\Debug\ExchangeRates.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\ExchangeRates\ExchangeRates\obj\Debug\ExchangeRates.MainForm.resources
+C:\Users\Александр\Desktop\ExchangeRates\ExchangeRates\obj\Debug\ExchangeRates.Properties.Resources.resources
+C:\Users\Александр\Desktop\ExchangeRates\ExchangeRates\obj\Debug\ExchangeRates.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\ExchangeRates\ExchangeRates\obj\Debug\ExchangeRates.exe
+C:\Users\Александр\Desktop\ExchangeRates\ExchangeRates\obj\Debug\ExchangeRates.pdb
